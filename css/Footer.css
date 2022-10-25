@@ -50,3 +50,10 @@ footer .logo_footer{
     font-size: 22px;
     color: #ffffff8e;
 }
+
+@media screen and (max-width: 600px) {
+    .footer li a{
+        font-size: 10px;
+        color: #ffffff8e;
+    }
+}
