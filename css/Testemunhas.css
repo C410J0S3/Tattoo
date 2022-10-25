@@ -71,7 +71,7 @@
 
 @media screen and (max-width:600px) {
     #Testemunhas{
-        heigth: auto;
+        heigth: auto!important;
 }
     
 }
