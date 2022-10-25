@@ -91,4 +91,8 @@ input::-webkit-input-placeholder{
         display: none;
     }
     
+    #Contato{
+        height: auto;
+    }
+    
 }
