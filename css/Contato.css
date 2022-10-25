@@ -92,7 +92,7 @@ input::-webkit-input-placeholder{
     }
     
     #Contato{
-        height: auto;
+        height: auto!important;
     }
     
 }
