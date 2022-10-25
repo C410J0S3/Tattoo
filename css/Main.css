@@ -71,7 +71,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 45%;
+    bottom: 30%;
     left: 0;
 }
 
@@ -103,13 +103,8 @@
     .Dark img{
         width: 300px;
     }
-    
-    .contact_main .tel{
-        font-size: 10px;
-    }
 
-    .contact_main .open{
-        font-size: 10px;
+    #Home .contact_main{
+        display: none;
     }
-
 }
