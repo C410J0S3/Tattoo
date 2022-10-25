@@ -69,3 +69,9 @@
     background-size: cover;
 }
 
+@media screen and (max-width:600px) {
+    #Testemunhas{
+        heigth: auto;
+}
+    
+}
