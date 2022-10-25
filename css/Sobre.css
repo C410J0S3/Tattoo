@@ -113,6 +113,7 @@
         flex-direction: column;
         height: auto;
     }
+  
     .img_about{
         border-right: 0px solid #8080808e;
     }
@@ -130,5 +131,18 @@
     .img2 {
         display: none;
     }
+    
+    .about h3{
+        margin-top: 20px;
+    }
+
+    .article{
+        margin-top: 50px;
+    }
+
+    .About2{
+       margin-top: 20px;
+    }
+
 
 }
