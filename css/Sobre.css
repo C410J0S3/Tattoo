@@ -117,7 +117,7 @@
         border-right: 0px solid #8080808e;
     }
    .Ass img{
-        width: 40px;
+        display: none;
     }
 }
 
