@@ -116,6 +116,12 @@
     .img_about{
         border-right: 0px solid #8080808e;
     }
+    .Ass{
+        margin-left: 60%;
+        width: 40px;
+        height: 40px;
+        transition: 1s all ease-in-out;
+    }
 }
 
 @media screen and (max-width: 600px) {
