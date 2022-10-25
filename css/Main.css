@@ -104,4 +104,19 @@
         width: 300px;
     }
     
+    #Home .contact_main{
+        height: 50px;
+        bottom: 10%;
+        left: 0;
+    }
+
+    
+    .contact_main .tel{
+        font-size: 10px;
+    }
+
+    .contact_main .open{
+        font-size: 10px;
+    }
+
 }
