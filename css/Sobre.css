@@ -125,6 +125,7 @@
 @media screen and (max-width: 600px) {
     .about{
         height: auto;
+        width: 60%;
     }
     
     .article{
