@@ -1,10 +1,8 @@
 # tattoo_page
 
-Site teste Tattoo 
+HTML | CSS | Responsivo
 
-feito em Html e Css 
-
-resta colocar Javascript
+Inspirado em exemplo retirado do pinterest!!!
 
 [Visualização](https://c410j0s3.github.io/Tattoo/)
 
