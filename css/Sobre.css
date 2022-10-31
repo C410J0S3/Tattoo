@@ -123,6 +123,10 @@
 }
 
 @media screen and (max-width: 600px) {
+    .about{
+        height: auto;
+    }
+    
     .article{
         height: 50vh;
         width: 100%;
